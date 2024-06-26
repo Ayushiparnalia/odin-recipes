@@ -1,0 +1,7 @@
+/* Style CSS */
+.pretzels-ingredients, .cookie-ingredients{
+    background-color: bisque;
+}
+.pretzels-steps, .cookie-steps{
+    background-color: aquamarine;
+}

@@ -1,7 +1,11 @@
 /* Style CSS */
 .pretzels-ingredients, .cookie-ingredients{
     background-color: bisque;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .pretzels-steps, .cookie-steps{
     background-color: aquamarine;
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }

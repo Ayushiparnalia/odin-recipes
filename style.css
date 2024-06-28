@@ -5,7 +5,7 @@
     font-family: Arial, Helvetica, sans-serif;
     padding: 20px;
     border: 10px;
-    margin: 20px;
+    margin: 20px auto;
     width: 250px;
     text-shadow: 25px;
 }
@@ -15,7 +15,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 20px;
     border: 10px;
-    margin: 20px;
+    margin: 20px auto;
     text-shadow: 25px;
 }
 .cookie-ingredients{
@@ -30,7 +30,7 @@
     width: 700px;
     padding: 20px;
     border: 10px;
-    margin: 20px;
+    margin: 20px auto;
     text-shadow: 25px;
 }
 .pretzels-desc{
@@ -40,4 +40,13 @@
     background-color: antiquewhite;
     border-radius: 50%;
     height: 200px;
+    margin: 20px auto;
+}
+h2, h3{
+    color: brown;
+    background-color: beige;
+    padding: 20px;
+    margin: 20px auto;
+    width: 150px;
+    text-align: center;
 }

@@ -1,11 +1,43 @@
 /* Style CSS */
 .pretzels-ingredients, .cookie-ingredients{
-    background-color: bisque;
-    color: brown;
+    background-color: black;
+    color: beige;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    border: 10px;
+    margin: 20px;
+    width: 250px;
+    text-shadow: 25px;
 }
 .pretzels-steps, .cookie-steps{
-    background-color: aquamarine;
-    color: darkblue;
+    background-color: black;
+    color: beige;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    border: 10px;
+    margin: 20px;
+    text-shadow: 25px;
+}
+.cookie-ingredients{
+    width: 350px;
+}
+.cookie-steps{
+    width: 750px;
+}
+.cookie-desc, .pretzels-desc{
+    background-color: black;
+    color: beige;
+    width: 700px;
+    padding: 20px;
+    border: 10px;
+    margin: 20px;
+    text-shadow: 25px;
+}
+.pretzels-desc{
+    width: 450px;
+}
+.cookie-image, .pretzels-image{
+    background-color: antiquewhite;
+    border-radius: 50%;
+    height: 200px;
 }

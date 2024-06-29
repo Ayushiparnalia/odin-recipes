@@ -37,6 +37,10 @@ h1, h2, h3{
     color: brown;
     background-color: beige;
     padding: 20px;
-    margin: 20px auto;
+    border: 0.2rem solid black;
+    border-radius: 50px;
+    outline: 0.2rem solid burlywood;
+    outline-offset: 0.5rem;
+    margin: 30px auto;
     text-align: center;
 }

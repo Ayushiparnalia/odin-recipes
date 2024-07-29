@@ -1,3 +1,3 @@
 # odin-recipes
-I will be making a recipe website
-I have basic knowledge of html.
+The website is live here: https://ayushiparnalia.github.io/odin-recipes/
+This website is made on HTML and CSS
